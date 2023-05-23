@@ -4,7 +4,7 @@ Ord og sætningers oprindelse samt deres betydning.
 
 # Indhold
  - [En bjørnetjeneste](#en-bjørnetjeneste) 
- - [Ført bag lyset](#ført-bag-lyset)
+ - [Føre nogen bag lyset](#føre-nogen-bag-lyset)
  - [Kålhøgen](#kålhøgen) 
 
 ## En bjørnetjeneste
@@ -17,20 +17,23 @@ Det oprinder nemlig fra en historie om en bjørn som ville hjælpe sin herre.
 Det gjorde bjørnen ved at jage en flue bort fra sin herres hoved - med en stor sten!  
 [Link til wikipedia](https://da.wikipedia.org/wiki/Bj%C3%B8rnetjeneste)
 
-## Ført bag lyset
-Der graves ....
+## Føre nogen bag lyset
+Betydningen af det at føre nogen bag lyset er meget godt dokumenteret: At snyde nogen eller at lyve for nogen  
+[Link til Den Danske Ordbog](https://ordnet.dk/ddo/ordbog?subentry_id=59006149&def_id=21049320&query=Se&mpage=1)
 
-Gammelt udtryk:  
-[Link til 	Salmonsens konversationsleksikon / Anden Udgave / Bind XVII: Mielck—Nordland /
-533 - 1915-1930](http://runeberg.org/salmonsen/2/17/0559.html)
+Men hvad er oprindelsen? Den er svær, og det er ikke lykkedes mig at finde en entydig forklaring.  
 
-Quote fra ovenstående
-> mystificere (fr.), føre bag Lyset, holde for nar. Mystifikation, den Handling at m.
+Det er helt sikkert et tudsegammelt udtryk. Jeg fandt f.eks. bogen med titlen "Danske Haandordbog" fra 1882 digitaliseret, hvor det på side 68 er angivet som en valid sætning.  
+[Link til Dansk Haandordbog](http://www5.kb.dk/e-mat/dod/130014825070.pdf)
+>f. en bag Lyset
 
-[Dansk Haandordbog fra 1882 - Side 68](http://www5.kb.dk/e-mat/dod/130014825070.pdf)
->Føre en bag lyset
+Men det svarer ikke på spørgsmålet omkring oprindelsen. Kan der være en symbolsk betydning i ordet lys?  
+Måske. Min bedste bud indtil videre er, at lys symboliserer viden eller sandhed, og det at blive ført bag lyset, betyder at man føres væk fra viden eller sandhed.  
+Langt ude? Måske. Men prøv at læse nedenstående omkring betydning af lys:  
+[Link til Symbolleksikon](https://symbolleksikon.lex.dk/lys#:~:text=Lys%2C%20symboliserer%20bl.,gode%20over%20for%20det%20onde.)
+>Lys, symboliserer bl.a. Solen, det guddommelige, det gode, paradis, evighed, livets kraft, dagen, inspiration, visdom, glæde, fornyelse. Mange religioner og filosofiske systemer rummer en kosmologisk dualisme mellem lys og mørke, der svarer til Gud og Satan og det gode over for det onde.
 
-[1858](https://books.google.dk/books?id=GwQGAAAAQAAJ&pg=RA2-PA236&lpg=RA2-PA236&dq=%22f%C3%B8re+en+bag+lyset%22+Gud&source=bl&ots=1KDQ7xcHO1&sig=ACfU3U1Nmh6B4x2ENei0nlroS3iOdLnKgQ&hl=en&sa=X&ved=2ahUKEwjIr-Ku-Ir_AhXThf0HHRH4Df8Q6AF6BAgVEAM#v=onepage&q=%22f%C3%B8re%20en%20bag%20lyset%22%20Gud&f=true)
+Så måske en forklaring. Men nok ikke noget man tænker over, når man bruger udtrykket.
 
 ## Kålhøgen
 Example text blah. Example text blah. Example text blah. Example text blah. 
