@@ -30,6 +30,8 @@ Quote fra ovenstående
 [Dansk Haandordbog fra 1882 - Side 68](http://www5.kb.dk/e-mat/dod/130014825070.pdf)
 >Føre en bag lyset
 
+[1858](https://books.google.dk/books?id=GwQGAAAAQAAJ&pg=RA2-PA236&lpg=RA2-PA236&dq=%22f%C3%B8re+en+bag+lyset%22+Gud&source=bl&ots=1KDQ7xcHO1&sig=ACfU3U1Nmh6B4x2ENei0nlroS3iOdLnKgQ&hl=en&sa=X&ved=2ahUKEwjIr-Ku-Ir_AhXThf0HHRH4Df8Q6AF6BAgVEAM#v=onepage&q=%22f%C3%B8re%20en%20bag%20lyset%22%20Gud&f=true)
+
 ## Kålhøgen
 Example text blah. Example text blah. Example text blah. Example text blah. 
 Example text blah. Example text blah. Example text blah. Example text blah. 
