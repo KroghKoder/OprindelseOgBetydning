@@ -18,14 +18,15 @@ Det gjorde bjørnen ved at jage en flue bort fra sin herres hoved - med en stor 
 [Link til wikipedia](https://da.wikipedia.org/wiki/Bj%C3%B8rnetjeneste)
 
 ## Ført bag lyset
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah.
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah.
+Der graves ....
+
+Gammelt udtryk:  
+[Link til 	Salmonsens konversationsleksikon / Anden Udgave / Bind XVII: Mielck—Nordland /
+533 - 1915-1930](http://runeberg.org/salmonsen/2/17/0559.html)
+
+Quote fra ovenstående
+> mystificere (fr.), føre bag Lyset, holde for nar. Mystifikation, den Handling at m.
+
 
 ## Kålhøgen
 Example text blah. Example text blah. Example text blah. Example text blah. 
