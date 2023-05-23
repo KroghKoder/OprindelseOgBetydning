@@ -2,7 +2,7 @@
 Ord og sætningers oprindelse samt deres betydning.  
 [Læs mere omkring formål og forfatter](#om-formål-og-forfatter)
 
-# Contents
+# Indhold
  - [En bjørnetjeneste](#en-bjørnetjeneste) 
  - [Ført bag lyset](#ført-bag-lyset)
  - [Kålhøgen](#kålhøgen) 
