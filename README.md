@@ -27,6 +27,8 @@ Gammelt udtryk:
 Quote fra ovenstående
 > mystificere (fr.), føre bag Lyset, holde for nar. Mystifikation, den Handling at m.
 
+[Dansk Haandordbog fra 1882 - Side 68](http://www5.kb.dk/e-mat/dod/130014825070.pdf)
+>Føre en bag lyset
 
 ## Kålhøgen
 Example text blah. Example text blah. Example text blah. Example text blah. 
