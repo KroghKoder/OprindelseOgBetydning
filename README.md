@@ -1,6 +1,6 @@
 # OprindelseOgBetydning
 Ord og sætningers oprindelse samt deres betydning.  
-[Læs mere omkring formål og forfatter](#om-formål-og-forfatter)
+[Læs mere omk formål og forfatter](#om-formål-og-forfatter)
 
 # Indhold
  - [En bjørnetjeneste](#en-bjørnetjeneste) 
@@ -8,7 +8,7 @@ Ord og sætningers oprindelse samt deres betydning.
  - [Kålhøgen](#kålhøgen) 
 
 ## En bjørnetjeneste
-En af mine favoritter. Denne er i kategorien pendul ord. Altså ord som kan have forskellige betydninger.
+En af mine favoritter. Denne er i kategorien pendulord. Altså ord som kan have forskellige betydninger.
 Mange - især yngre - kender ikke ordets oprindelige betydning, som er en skadelig/malplaceret tjeneste, der ikke hjælper.  
 Mange bruger ordet med betydningen: En stor, god og velment tjeneste. 
 Klart nok. En bjørn er stor og stærk, og hvis du får en tjeneste af en bjørn må det være en god og stor tjeneste, men oprindelsen siger noget andet.
@@ -48,7 +48,7 @@ Example text blah. Example text blah.
 
 ## Om formål og forfatter
 Jeg er en for det meste normal mand der til dagligt arbejder med IT. Ikke noget vildt og stort der.  
-Men jeg har en lidt unormal interesse for ord, sætninger, deres betyding og deres oprindelse. F.eks har jeg været fasineret af pendul ord.  
+Men jeg har en lidt unormal interesse for ord, sætninger, deres betyding og deres oprindelse. F.eks har jeg altid været fascineret af pendulord.  
 Nogen gange er det hurtigt at finde en forklaring, andre gange skal der graves og gættes.  
 
 Formålet med denne side er at gemme resultatet af mit gravearbejde. Måske andre også syntes det er spændende?  
