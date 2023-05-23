@@ -1,6 +1,6 @@
 # OprindelseOgBetydning
 Ord og sætningers oprindelse samt deres betydning.  
-[Læs mere omk formål og forfatter](#om-formål-og-forfatter)
+[Læs mere om formål og forfatter](#om-formål-og-forfatter)
 
 # Indhold
  - [En bjørnetjeneste](#en-bjørnetjeneste) 
