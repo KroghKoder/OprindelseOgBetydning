@@ -14,7 +14,7 @@ Mange bruger ordet med betydningen: En stor, god og velment tjeneste.
 Klart nok. En bjørn er stor og stærk, og hvis du får en tjeneste af en bjørn må det være en god og stor tjeneste, men oprindelsen siger noget andet.
 
 Det oprinder nemlig fra en historie om en bjørn som ville hjælpe sin herre.  
-Det gjorde bjørnen ved at jage en flue bort fra sin herres hoved - med en stor sten!
+Det gjorde bjørnen ved at jage en flue bort fra sin herres hoved - med en stor sten!  
 [Link til wikipedia](https://da.wikipedia.org/wiki/Bj%C3%B8rnetjeneste)
 
 ## Ført bag lyset
@@ -46,6 +46,6 @@ Jeg er en for det meste normal mand der til dagligt arbejder med IT. Ikke noget 
 Men jeg har en lidt unormal interesse for ord, sætninger, deres betyding og deres oprindelse. F.eks har jeg været fasineret af pendul ord.  
 Nogen gange er det hurtigt at finde en forklaring, andre gange skal der graves og gættes.  
 
-Formålet med denne side er at gemme resultatet af mit gravearbejde. Måske andre syntes det også er spændende?  
+Formålet med denne side er at gemme resultatet af mit gravearbejde. Måske andre også syntes det er spændende?  
 
 Bemærk at der på ingen måde er et ansvar placeret med denne side. Jeg kan (og vil) komme til at tage fejl.
